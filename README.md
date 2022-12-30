@@ -30,24 +30,24 @@ IV：备份功能：
 
 #### 登录注册
 
-![登录](imgs\Snipaste_2022-12-30_14-43-02.png)
+![登录](imgs/Snipaste_2022-12-30_14-43-02.png)
 
-![注册](imgs\Snipaste_2022-12-30_14-42-27.png)
+![注册](imgs/Snipaste_2022-12-30_14-42-27.png)
 
 #### 管理员界面
 
-![](imgs\Snipaste_2022-12-30_14-49-57.png)
+![](imgs/Snipaste_2022-12-30_14-49-57.png)
 
-![](imgs\Snipaste_2022-12-30_14-50-07.png)
+![](imgs/Snipaste_2022-12-30_14-50-07.png)
 
-![](imgs\Snipaste_2022-12-30_14-50-30.png)
+![](imgs/Snipaste_2022-12-30_14-50-30.png)
 
-![](imgs\Snipaste_2022-12-30_14-51-20.png)
+![](imgs/Snipaste_2022-12-30_14-51-20.png)
 
 #### 用户界面
 
-![](imgs\Snipaste_2022-12-30_14-47-18.png)
+![](imgs/Snipaste_2022-12-30_14-47-18.png)
 
-![](imgs\Snipaste_2022-12-30_14-47-42.png)
+![](imgs/Snipaste_2022-12-30_14-47-42.png)
 
-![](imgs\Snipaste_2022-12-30_14-55-49.png)
+![](imgs/Snipaste_2022-12-30_14-55-49.png)
